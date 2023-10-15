@@ -3,7 +3,7 @@
 
 Solana staking program 
 
-`Framework:` Anchor
+`Framework:` Anchor Installation ```https://www.anchor-lang.com/docs/installation```
 
 `SPl Token:` Basic Token
 
